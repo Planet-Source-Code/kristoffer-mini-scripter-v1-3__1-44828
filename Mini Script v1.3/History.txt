@@ -1,0 +1,33 @@
+
+
+Mini Scripter v1.0,	Created by Kristoffer Sörquist
+-----------------------------------------------------
+The main stuff created
+-----------------------------------------------------
+
+
+Mini Scripter v1.1,	Updated by Ben Jones
+-----------------------------------------------------
+Added cut,copy,paste, select all to edit menu
+Adddd open with Dialog Control
+Added Project Workspace
+Added Toolbar
+Added View menu
+Added the function to list all the functions and subs in the funcs combo still needs a little work but at the moment i seems to work ok.
+-----------------------------------------------------
+
+
+Mini Scripter v1.2	Updated by Ben Jones
+-----------------------------------------------------
+Added Find text dialog
+Added Replace Dialog
+Added Indent,Outdent to edit menu
+Added Add procedure dilaog like the on in VB
+Added IF then Else wizard to the tools wizard menu
+-----------------------------------------------------
+
+
+Mini Scripter v1.3	Updated by Kristoffer Sörquist
+-----------------------------------------------------
+Some improvements for the uploading to pscode.com
+-----------------------------------------------------

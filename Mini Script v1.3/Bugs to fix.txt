@@ -1,0 +1,16 @@
+
+ ------------------------------------
+ Bugs
+ ------------------------------------
+
+ - New project/bas file
+ - Save prject/bas file/form file
+ - Open all vb files such as frm and bas files
+ - Not make blue syntax words in the coments or within "" or ()
+ - The status field should show the open file name or something
+ - Get a better icon =)
+ - Instead of the picmargin (the picturebox thatfixes the margin)
+   we should have a indent or left margin. I cant find it =)
+
+ Please mail me code at zytric@msn.com
+ Thanks for using!
